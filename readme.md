@@ -4,11 +4,11 @@ A simple Node.js program to determine the most popular flavor based on user vote
 ### Flavors and Codes
 The flavors are mapped to codes as follows:
 
-0 - Flakes
-1 - Chocolate
-2 - Strawberry
-3 - Cream
-4 - Neapolitan
+0 - Flakes  
+1 - Chocolate  
+2 - Strawberry  
+3 - Cream  
+4 - Neapolitan  
 
 ### Features
 Accepts user input as a comma-separated list of votes (e.g., 0,1,2,3,4).
